@@ -21,27 +21,35 @@ const Excuse = () => {
           <div className="w-[1800px] lg:w-[2500px] flex gap-x-12 ml-5 lg:ml-10">
             <Card
               className="bg-[#FFD707]"
-              heading="I am not sure about the idea I have"
+              heading="I don't have/ not sure about the idea I have"
             />
             <Card
               className="bg-[#FF2D46]"
-              heading="I am not sure about the idea I have"
+              heading="I want to gain experience in a good company"
             />
             <Card
               className="bg-[#2388FF]"
-              heading="I am not sure about the idea I have"
+              heading="I need financial support"
             />
             <Card
               className="bg-[#FFD707]"
-              heading="I am not sure about the idea I have"
+              heading="I dont have team & dont know how to build it"
             />
             <Card
               className="bg-[#FF2D46]"
-              heading="I am not sure about the idea I have"
+              heading="I have loans/ bill to pay"
             />
             <Card
               className="bg-[#2388FF]"
-              heading="I am not sure about the idea I have"
+              heading="I have to do my masters"
+            />
+            <Card
+              className="bg-[#2388FF]"
+              heading="I don't want my academics to be affected"
+            />
+            <Card
+              className="bg-[#2388FF]"
+              heading="Who will invest in my idea"
             />
           </div>
         </div>
