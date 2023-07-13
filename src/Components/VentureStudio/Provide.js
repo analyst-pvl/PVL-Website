@@ -29,13 +29,13 @@ const Provide = () => {
         <div className="flex flex-wrap flex-col md:flex-row lg:mt-24 mt-16 gap-8 justify-center">
           <Card
             heading="Resources"
-            parah="Product Design, Packaging, Technology Expertise, Full Stack Development, Access to Labs, Branding and Marketing, IP and Legal, Finance and Operations"
+            parah="Access to infrastructure for all your requirements: AWS Cloud credits, Tech & Computing infra, Design & Other Resources"
           >
             <LargeGlobalMarkets />
           </Card>
           <Card
-            heading="Funding"
-            parah="Financial Support, No Operational Overhead, No Cashflow Issues, No Challenges in Hiring and Finding Talent"
+            heading="Funding & Support"
+            parah="Financial Support, No Operational Overhead, Finding the right team"
           >
             <Dollar />
           </Card>
@@ -46,6 +46,9 @@ const Provide = () => {
             <HandHolding />
           </Card>
         </div>
+        <h5 className="text-[#060919] text-5xl lg:text-6xl font-bold text-center">
+          Driven to complete your project, without anxiety on commitments/risks
+        </h5>
       </div>
     </div>
   );
