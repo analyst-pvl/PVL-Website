@@ -43,26 +43,26 @@ const Process = () => {
         <div className="mt-10 md:mt-5 w-full max-w-[520px] last:border-white mb-24">
           <ProcessDiv
             step="01"
-            heading="Pitch your idea"
-            parah="Ideas are evaluated by our investment team"
+            heading="Choose an Idea"
+            parah="Come with your own project idea, or pick from one of our identified interesting industry-wide problems, backed by corporates"
             border
           />
           <ProcessDiv
             step="02"
             heading="Build"
-            parah="Build your Product, Branding, Marketing, Solidify Product-Market Fit, GTM strategy"
+            parah="Plan & build out your project over the course of the next few months with all the support from us"
             border
           />
           <ProcessDiv
             step="03"
-            heading="Legal"
-            parah="Company Formation, IP, Cap Table, Registration, and Licenses"
+            heading="Complete"
+            parah="Finish your project with the right teammates and showcase your newly gained skills on your resume"
             border
           />
           <ProcessDiv
             step="04"
-            heading="GTM and Series A Hunt"
-            parah="Hit the Market, Pitch Decks, Business Plans and use our extensive network to find the right investor"
+            heading="Exit & Iterate"
+            parah="Generate value in 1 of 3 ways with your project: Get Acquired and Paid by Us; Create your Startup; Go for External Funding"
           />
         </div>
       </div>
