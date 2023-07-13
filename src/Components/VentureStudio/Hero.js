@@ -22,7 +22,7 @@ const Hero = () => {
             Get Started
           </button>
           <h4 className="font-bold text-4xl lg:text-1xl text-center lg:text-left">
-          <br /><br />Zero Commitment : Infinite Possibilities
+          <br /><br />Discover projects : Build it with PVL
           </h4>
         </div>
         <Image
