@@ -7,8 +7,8 @@ const Hero = () => {
       <div className="container flex flex-col lg:flex-row items-center justify-between gap-20">
         <div className="lg:block flex flex-col items-center">
           <h1 className="font-bold text-4xl lg:text-5xl text-center lg:text-left">
-            ANY BODY CAN CREATE <br />
-            WITH PVL
+            ANY BODY CAN <br />
+            CREATE WITH PVL
           </h1>
           <button
             className="yellowButton py-6 px-8 mt-4 rounded-full font-medium"
