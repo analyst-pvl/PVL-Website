@@ -10,9 +10,6 @@ const Hero = () => {
             ANY BODY CAN CREATE <br />
             WITH PVL
           </h1>
-          <h4 className="font-bold text-4xl lg:text-5xl text-center lg:text-left">
-          Zero Commitment : Infinite Possibilities
-          </h4>
           <button
             className="yellowButton py-6 px-8 mt-4 rounded-full font-medium"
             onClick={() => {
@@ -24,6 +21,9 @@ const Hero = () => {
           >
             Get Started
           </button>
+          <h4 className="font-bold text-4xl lg:text-1xl text-center lg:text-left">
+          <br /><br />Zero Commitment : Infinite Possibilities
+          </h4>
         </div>
         <Image
           src="/VetureStudio1.png"
