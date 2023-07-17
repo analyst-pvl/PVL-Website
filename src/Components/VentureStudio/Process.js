@@ -57,13 +57,12 @@ const Process = () => {
             step="03"
             heading="Get your career a 10x jump"
             parah="Sell your project, convert in to startup or just cash-in the prize money and move on with your life"
-            border
           />
-         /* <ProcessDiv
+          {/* <ProcessDiv
             step="04"
             heading="Exit & Iterate"
             parah="Generate value in 1 of 3 ways with your project: Get Acquired and Paid by Us; Create your Startup; Go for External Funding"
-          /> */
+          />  */}
         </div>
       </div>
     </div>

@@ -46,8 +46,8 @@ const Provide = () => {
             <HandHolding />
           </Card>
         </div>
-        <h5 className="text-[#060919] text-5xl lg:text-3xl font-bold text-center">
-          <br /> <br />Driven to complete your project, without anxiety on commitments/risks
+        <h5 className="text-[#060919] text-5xl lg:text-3xl font-bold text-center mt-14">
+          Driven to complete your project, without anxiety on commitments/risks
         </h5>
       </div>
     </div>

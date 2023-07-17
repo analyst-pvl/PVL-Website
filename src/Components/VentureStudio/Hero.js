@@ -21,8 +21,8 @@ const Hero = () => {
           >
             Get Started
           </button>
-          <h4 className="font-bold text-4xl lg:text-1xl text-center lg:text-left">
-          <br /><br />Discover projects : Build it with PVL
+          <h4 className="font-bold text-2xl lg:text-4xl text-center lg:text-left mt-5 lg:mt-14">
+            Discover projects : Build it with PVL
           </h4>
         </div>
         <Image
