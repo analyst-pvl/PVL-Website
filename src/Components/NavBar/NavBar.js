@@ -49,6 +49,12 @@ const NavBar = (props) => {
             >
               Opportunities
             </div>
+            <div
+              onClick={() => props.pageChange("/news")}
+              className="cursor-pointer"
+            >
+              News
+            </div>
           </div>
           <div className="gap-x-10 flex-1 justify-end hidden md:flex">
             <button
@@ -120,10 +126,15 @@ const NavBar = (props) => {
           </div>
           <div
             onClick={() => props.pageChange("/opportunities")}
-            href="/opportunities"
             className="cursor-pointer px-5 py-4 w-full text-center"
           >
             Opportunities
+          </div>
+          <div
+            onClick={() => props.pageChange("/news")}
+            className="cursor-pointer px-5 py-4 w-full text-center"
+          >
+            News
           </div>
           <button
             className="yellowButton px-5 py-4 font-medium text-[#060919] w-full rounded-none"

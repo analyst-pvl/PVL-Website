@@ -27,6 +27,7 @@ const Footer = () => {
           <Link href="/portfolio">Portfolio</Link>
           <Link href="/about">About</Link>
           <Link href="/opportunities">Opportunities</Link>
+          <Link href="/news">News</Link>
         </div>
       </div>
       <div className="bg-[#FFC947] h-[1px] w-3/5 mt-10 max-w-[1000px]"></div>
