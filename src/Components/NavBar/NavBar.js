@@ -9,7 +9,7 @@ const NavBar = (props) => {
 
   return (
     <div
-      className={`top-0 w-full bg-[#0B0B0B4D] backdrop-blur-2xl z-50 ${
+      className={`top-0 w-full bg-[#0B0B0B5D] backdrop-blur-2xl z-50 ${
         props.shouldCover ? "fixed" : "sticky"
       } `}
     >
