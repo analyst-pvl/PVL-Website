@@ -224,7 +224,7 @@ const data = [
     link: "https://sharanga.co/",
   },
   {
-    name: "Sustify",
+    name: "Sustifi",
     description:
       "An Al driven SaaS platform for enabling sustainable companies & products",
     url: "/Sustify.png",
