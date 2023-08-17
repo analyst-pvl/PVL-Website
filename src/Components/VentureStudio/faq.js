@@ -13,8 +13,8 @@ const FAQ = () => {
           </div>
         </div>
         <div className="mt-10 md:mt-5 w-full  last:border-white mb-24 flex flex-col gap-3">
-          {faqdata.map((item) => {
-            return <Section question={item.question} answer={item.answer} />;
+          {faqdata.map((item,index) => {
+            return <Section key={index} question={item.question} answer={item.answer} />;
           })}
           {/* <ProcessDiv
             step="01"
