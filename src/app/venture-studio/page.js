@@ -4,6 +4,7 @@ import NavBar from "@/Components/NavBar/NavBar";
 import Hero from "@/Components/VentureStudio/Hero";
 import Process from "@/Components/VentureStudio/Process";
 import Provide from "@/Components/VentureStudio/Provide";
+import FAQ from "@/Components/VentureStudio/faq";
 import { useRouter } from "next/navigation";
 import React, { useEffect, useState } from "react";
 
@@ -36,6 +37,7 @@ const Page = () => {
         <Hero />
         <Provide />
         <Process />
+        <FAQ />
         <Footer />
       </div>
     </>

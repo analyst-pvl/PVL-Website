@@ -10,17 +10,21 @@ const Hero = () => {
             ANY BODY CAN <br />
             CREATE WITH PVL
           </h1>
-          <button
-            className="yellowButton py-6 px-8 mt-4 rounded-full font-medium"
-            onClick={() => {
-              window.open(
-                "https://6inc.typeform.com/idea-submission#name=xxxxx&email=xxxxx&source=pvl&linkedin_url=xxxxx",
-                "_blank"
-              );
-            }}
-          >
-            Get Started
-          </button>
+          <div className="flex flex-row gap-3">
+            <a href="https://forms.gle/zidd8NtAi1joeWgh7" target="_blank">
+              <button className="yellowButton py-6 px-8 mt-2 rounded-full font-medium">
+                Get Started
+              </button>
+            </a>
+            <a
+              href="https://drive.google.com/file/d/1MmnVl9J44p2ZVAo3ftyYhwYdHZVjxAUi/view?usp=sharing"
+              target="_blank"
+            >
+              <button className="yellowButton py-6 px-8 mt-2 rounded-full font-medium">
+                Complete Rules
+              </button>
+            </a>
+          </div>
           <h4 className="font-bold text-2xl lg:text-4xl text-center lg:text-left mt-5 lg:mt-14">
             Discover projects : Build it with PVL
           </h4>
