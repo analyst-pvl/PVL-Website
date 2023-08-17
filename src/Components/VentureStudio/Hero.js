@@ -13,7 +13,7 @@ const Hero = () => {
           <div className="flex flex-row gap-3">
             <a href="https://forms.gle/zidd8NtAi1joeWgh7" target="_blank">
               <button className="yellowButton py-6 px-8 mt-2 rounded-full font-medium">
-                Get Started
+                Register Now
               </button>
             </a>
             <a
