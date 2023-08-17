@@ -13,9 +13,36 @@ const FAQ = () => {
           </div>
         </div>
         <div className="mt-10 md:mt-5 w-full  last:border-white mb-24 flex flex-col gap-3">
-          {faqdata.map((item,index) => {
-            return <Section key={index} question={item.question} answer={item.answer} />;
+          {faqdata.map((item, index) => {
+            return (
+              <Section
+                key={index}
+                question={item.question}
+                answer={item.answer}
+              />
+            );
           })}
+          <div className="mt-4 p-4  bg-[#ededed] rounded border ">
+            <p className="font-semibold">Contact us for more details</p>
+            <p>
+              Pradyun{" "}
+              <a
+                className="text-blue-400 hover:underline"
+                href="tel:+919663928924"
+              >
+                +919663928924
+              </a>
+            </p>
+            <p>
+              Deepika{" "}
+              <a
+                className="text-blue-400 hover:underline"
+                href="tel:+918553030046"
+              >
+                +918553030046
+              </a>
+            </p>
+          </div>
           {/* <ProcessDiv
             step="01"
             heading="Bootcamp to discover deep tech product"
@@ -50,7 +77,10 @@ const Section = ({ question, answer }) => {
   const [open, setopen] = useState(false);
   return (
     <div className="border rounded bg-[#ededed] w-full p-4 flex flex-col gap-2 ">
-      <div className="flex flex-row gap-4 justify-between">
+      <div
+        onClick={() => setopen(!open)}
+        className="flex flex-row gap-4 justify-between"
+      >
         <p className="font-semibold ">{question}</p>
         <span onClick={() => setopen(!open)}>
           {!open ? (

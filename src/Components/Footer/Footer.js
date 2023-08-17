@@ -17,15 +17,7 @@ const Footer = () => {
             Privacy Policy- Terms & Conditions- Legal
             <br />© 2021 PVL All Rights Reserved
           </p>
-          <div className="mt-9">
-            Contact us at <br />
-            <p>
-              Pradyun <a href="tel:+919663928924">+919663928924</a>
-            </p>
-            <p>
-              Deepika <a href="tel:+918553030046">+918553030046</a>
-            </p>
-          </div>
+
           <div className="flex mt-9 gap-x-8">
             <Instagram />
             <LinkedIn />
