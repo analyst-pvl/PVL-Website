@@ -53,15 +53,9 @@ const faqdata = [
       "Post checkpoint 1, after a mutual discussion and agreement, PVL will procure the required resources for your team and make them available at the earliest. Post this also, you may request for resources and we can process it. We would like to make sure that the process hasslefree for all teams. The Standard Operations Procedure document will be followed and will be shared with all teams.",
   },
   {
-    question:
-      "Is financial support provided upfront or on a reimbursement basis?",
-    answer:
-      "Financial support will be provided on a reimbursement basis after it’s verified by the mentors and the PVL team. The Standard Operations Procedure document will be followed for all the reimbursements",
-  },
-  {
     question: "Can team members be from different academic years/ departments?",
     answer:
-      "Yes! There are no restrictions on the team composition. We recommend having a diverse team with a team size of 3-5 members. But important is to ensure that all team members have clear technology responsibility and capability to contribute.",
+      "Yes! There are no restrictions on the team composition. We recommend having a diverse team with a team size of 2-6 members. But important is to ensure that all team members have clear technology responsibility and capability to contribute.",
   },
   {
     question:
