@@ -17,7 +17,7 @@ const Hero = () => {
               </button>
             </a>
             <a
-              href="https://drive.google.com/file/d/1MmnVl9J44p2ZVAo3ftyYhwYdHZVjxAUi/view?usp=sharing"
+              href="https://docs.google.com/document/d/1hUTnUkEFL5ZxbXxiq1OKGBny79Gt7428sUnxiI41dcM/edit?pli=1"
               target="_blank"
             >
               <button className="yellowButton py-6 px-8 mt-2 rounded-full font-medium">

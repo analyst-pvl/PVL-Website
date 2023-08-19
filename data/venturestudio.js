@@ -34,11 +34,23 @@ const faqdata = [
   },
   {
     question: "What type of problems are eligible for the program?",
-    answer: `AI/ML, NLP, CV & related tech, 
-IOT/Robotic/sensors/ Low power chips, 
-Cyber security, Web3.0,  cloud
-Projects leveraging Deep Math, science & specialities
-Social impact, Sustainability, Healthcare, Dev tech/tools`,
+    answer: [
+      "1. AI/ML, NLP",
+      "2. IOT/ Robotic/ sensors",
+      "3. Cyber security, cloud",
+      "4. Projects leveraging deep math, science research and specialities",
+      "5. Computer Vision, 3D, AR",
+      "6. Low power chips, hardware design",
+      "7. Web3, Crypto",
+      "8. Networks security, 5G",
+      "9. Other: social impact, sustainability, health-tech, dev tech/tools, etc.",
+      "Please note that focus is not on use cases but the core tech. ",
+    ],
+  },
+  {
+    question: "How is the financial support provided?",
+    answer:
+      "Post checkpoint 1, after a mutual discussion and agreement, PVL will procure the required resources for your team and make them available at the earliest. Post this also, you may request for resources and we can process it. We would like to make sure that the process hasslefree for all teams. The Standard Operations Procedure document will be followed and will be shared with all teams.",
   },
   {
     question:

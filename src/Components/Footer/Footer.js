@@ -10,10 +10,14 @@ const Footer = () => {
       <div className="container flex justify-between items-start sm:flex-row flex-col gap-10">
         <div className="text-lg">
           <PVL_Logo />
-          <p className="mt-9">
+          <p className="mt-6">
             12th Floor CIE Office, <br />B Block PES University, Outer Ring Road
           </p>
-          <p className="mt-9">
+          <p className="mt-6">
+            4th Floor, CIE Office, <br />
+            Main Block, PES University, <br />Electronic City Campus, B'luru-100
+          </p>
+          <p className="mt-6">
             Privacy Policy- Terms & Conditions- Legal
             <br />© 2021 PVL All Rights Reserved
           </p>

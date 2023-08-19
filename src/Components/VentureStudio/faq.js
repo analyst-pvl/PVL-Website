@@ -75,6 +75,34 @@ export default FAQ;
 
 const Section = ({ question, answer }) => {
   const [open, setopen] = useState(false);
+  if (typeof answer === "object") {
+    return (
+      <div className="border rounded select-none bg-[#ededed] w-full p-4 flex flex-col gap-2 ">
+        <div
+          onClick={() => setopen(!open)}
+          className="flex flex-row gap-4 justify-between"
+        >
+          <p className="font-semibold ">{question}</p>
+          <span onClick={() => setopen(!open)}>
+            {!open ? (
+              <ArrowDownwardIcon className="hover:drop-shadow cursor-pointer" />
+            ) : (
+              <ArrowUpwardIcon className="hover:drop-shadow cursor-pointer" />
+            )}
+          </span>
+        </div>
+        <div
+          className={` ${
+            open ? " h-full" : "h-0 hidden transform ease-in-out delay-100"
+          }`}
+        >
+          {answer.map((item, index) => {
+            return <p className="p-1">{item}</p>;
+          })}
+        </div>
+      </div>
+    );
+  }
   return (
     <div className="border rounded bg-[#ededed] w-full p-4 flex flex-col gap-2 ">
       <div
