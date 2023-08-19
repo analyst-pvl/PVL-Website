@@ -97,7 +97,7 @@ const Section = ({ question, answer }) => {
           }`}
         >
           {answer.map((item, index) => {
-            return <p className="p-1">{item}</p>;
+            return <p className="p-1" key={index}>{item}</p>;
           })}
         </div>
       </div>

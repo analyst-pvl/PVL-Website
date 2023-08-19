@@ -11,11 +11,11 @@ const Footer = () => {
         <div className="text-lg">
           <PVL_Logo />
           <p className="mt-6">
-            12th Floor CIE Office, <br />B Block PES University, Outer Ring Road
+            12th Floor CIE Office, <br />B Block PES University, Outer Ring Road , Bengaluru 
           </p>
           <p className="mt-6">
             4th Floor, CIE Office, <br />
-            Main Block, PES University, <br />Electronic City Campus, B'luru-100
+            Main Block, PES University, <br />Electronic City Campus, Bengaluru 
           </p>
           <p className="mt-6">
             Privacy Policy- Terms & Conditions- Legal
