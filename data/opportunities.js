@@ -17,26 +17,26 @@ const opportunitiesData = [
   {
     title: "UI/UX Designer",
     des: "UI/UX Designer responsibilities include gathering user requirements, designing graphic elements, and building interface components",
-    link: "https://assertify.me/jobs/PESU%20Venture%20Labs/Design%20UI_UX?type=2&title=UI/UX%20Designer",
+    link: "https://assertify.me/organization/3/job/6c0a63f5-508f-11ee-a053-0206cfbc7124",
     image: "/Design.webp",
   },
 
   {
     title: "Frontend Web Developer",
     des: "Working in tandem with the UI/UX team to develop new features using React.js for the web platform",
-    link: "https://assertify.me/jobs/PESU%20Venture%20Labs/Front%20End%20Web%20Development?type=2&title=Front%20End%20Web%20Developer",
+    link: "https://assertify.me/organization/3/job/e6436dda-6662-498e-a236-97fb4420c21e",
     image: "/Tech.webp",
   },
   {
     title: "Backend Web Developer",
     des: "Work closely with the product head and UX designers to understand the product vision and design philosophy",
-    link: "https://assertify.me/jobs/PESU%20Venture%20Labs/Backend%20Developer?type=2&title=Backend%20Web%20Developer",
+    link: "https://assertify.me/organization/3/job/71908a64-508f-11ee-a053-0206cfbc7124",
     image: "/Tech.webp",
   },
   {
     title: "Flutter Developer",
     des: "Developing end-to-end mobile applications, Creating rapid prototypes and upgrading them to full-scale applications by working collaboratively with the design and development team",
-    link: "https://assertify.me/jobs/PESU%20Venture%20Labs/Flutter%20Developer%202?type=2&title=Mobile%20App%20Development%20using%20Flutter",
+    link: "https://assertify.me/organization/3/job/b1e7f5f9-46f8-4b73-ba17-db7d3de5ffc9",
     image: "/Tech.webp",
   },
   {
@@ -54,7 +54,7 @@ const opportunitiesData = [
   {
     title: "Content Writer",
     des: "If you know and love content creation like we at PVL love innovation, let’s get talking.",
-    link: "https://assertify.me/jobs/PESU%20Venture%20Labs/Content%20Writing%20-%20General?type=2&title=Content%20Writer",
+    link: "https://assertify.me/organization/3/job/65fb501d-508f-11ee-a053-0206cfbc7124",
     image: "/Content.webp",
   },
   {
