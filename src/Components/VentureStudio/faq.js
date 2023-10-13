@@ -25,27 +25,6 @@ const FAQ = () => {
           <div className="mt-4 p-4  bg-[#ededed] rounded border flex flex-col gap-2 ">
             <p className="font-semibold">Contact us for more details</p>
             <div>
-              <p className=" font-semibold">EC Campus</p>
-              <p>
-                Pradyun{" "}
-                <a
-                  className="text-blue-400 hover:underline"
-                  href="tel:+919663928924"
-                >
-                  +919663928924
-                </a>
-              </p>
-              <p>
-                Deepika{" "}
-                <a
-                  className="text-blue-400 hover:underline"
-                  href="tel:+918553030046"
-                >
-                  +918553030046
-                </a>
-              </p>
-            </div>
-            <div>
               <p className=" font-semibold">RR Campus</p>
               <p>
                 Ananya{" "}
@@ -63,6 +42,27 @@ const FAQ = () => {
                   href="tel:+918310535589"
                 >
                   +918310535589
+                </a>
+              </p>
+            </div>
+            <div>
+              <p className=" font-semibold">EC Campus</p>
+              <p>
+                Pradyun{" "}
+                <a
+                  className="text-blue-400 hover:underline"
+                  href="tel:+919663928924"
+                >
+                  +919663928924
+                </a>
+              </p>
+              <p>
+                Deepika{" "}
+                <a
+                  className="text-blue-400 hover:underline"
+                  href="tel:+918553030046"
+                >
+                  +918553030046
                 </a>
               </p>
             </div>
