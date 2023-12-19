@@ -11,7 +11,7 @@ const opportunitiesData = [
   {
     title: "Lead Growth Hacker",
     des: "Leading the team of Growth Hackers to build and grow digital presences of startups",
-    link: "https://assertify.me/jobs/PESU%20Venture%20Labs/Lead%20Growth%20Hacker?type=2&title=Lead%20Growth%20Hacker",
+    link: "https://assertify.me/organization/3/job/405341fa-3cb5-4e4b-ab50-f1296e37dd71",
     image: "/Design.webp",
   },
   {
@@ -42,7 +42,7 @@ const opportunitiesData = [
   {
     title: "AI & ML Engineers",
     des: "Talented individuals capable of building scalable intelligent systems to integrate with products and solve complex real-world problems",
-    link: "https://assertify.me/jobs/PESU%20Venture%20Labs/AI%20ML%20Dataset%20Challenges?type=2&title=AI%20ML%20Engineer",
+    link: "https://assertify.me/organization/3/job/fa78b293-debd-43fc-ae7c-ce9edf0ac8e4",
     image: "/Tech.webp",
   },
   {
@@ -60,7 +60,7 @@ const opportunitiesData = [
   {
     title: "Digital Marketing",
     des: "Establishing an end-to-end leads process and guiding the implementation and execution across multiple social media platforms",
-    link: "https://assertify.me/jobs/PESU%20Venture%20Labs/Digital%20Marketing?type=2&title=Digital%20Marketing%20Officer",
+    link: "https://assertify.me/organization/3/job/405341fa-3cb5-4e4b-ab50-f1296e37dd71",
     image: "/Content.webp",
   },
 ];
