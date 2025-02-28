@@ -45,7 +45,7 @@ const FAQ = () => {
                 </a>
               </p>
             </div>
-            <div>
+            {/* <div>
               <p className=" font-semibold">EC Campus</p>
               <p>
                 Pradyun{" "}
@@ -65,7 +65,7 @@ const FAQ = () => {
                   +918553030046
                 </a>
               </p>
-            </div>
+            </div> */}
           </div>
           {/* <ProcessDiv
             step="01"
